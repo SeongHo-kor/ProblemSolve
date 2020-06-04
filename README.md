@@ -16,7 +16,7 @@
 
 ### 문제 풀이 예정
 1. 백준  (https://www.acmicpc.net): 37문제
-2. SWEA  (https://swexpertacademy.com): 23문제
+2. SWEA  (https://swexpertacademy.com): 19문제
 3. CodePlus(https://code.plus/course/40): ~
 
 
